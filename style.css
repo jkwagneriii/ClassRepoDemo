@@ -1,3 +1,6 @@
 body {
-    background-color: grey;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+h1 {
+    text-align: center;
 }
